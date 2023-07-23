@@ -21,7 +21,9 @@ description: >-
 * You are not allowed to go in loops on public transport. That is, if you are starting at Amsterdam Centraal, you are not allowed to take a train to Schiphol, not check out, and travel back to Amsterdam to get a free trip. You must check out whenever leaving a station. Ticket inspectors will check for this.
 * Speaking of not checking out, don’t forget to check in and out on public transport. Failure to check out usually means you pay a fuckton of money for a journey you didn’t take, although this can usually be refunded if you fill out some forms.&#x20;
 
-> A neat tip: you don’t necessarily have to check out when physically leaving trams/busses - these methods usually have little screens on the card readers that show the next stop. When you see your stop on the screen, you can check out, even if the vehicle has not stopped moving yet. This way, you can exit quicker without holding up others.
+{% hint style="info" %}
+A neat tip: you don’t necessarily have to check out when physically leaving trams/busses - these methods usually have little screens on the card readers that show the next stop. When you see your stop on the screen, you can check out, even if the vehicle has not stopped moving yet. This way, you can exit quicker without holding up others.
+{% endhint %}
 
 * Make sure to check out and back in when transferring between operators, i.e. NS and GVB. At stations with shared train platforms (Amsterdam Amstel, Duivendrecht, etc) there are convenient posts where you can quickly do this without passing through ticket barriers. Note, GVB does indeed not go to brussels.&#x20;
 * When planning ahead, always have the assumption that you will miss the intended bus/tram/metro and will take the one after.
