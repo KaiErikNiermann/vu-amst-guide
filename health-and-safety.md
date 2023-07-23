@@ -60,7 +60,9 @@ For hard stuff, _**don't accept from street party dealers**_. Only safe thing I 
 
 It is vital to look beforehand what each drug does, and how much to take and a designed trip carer. Most likely your dealer can help you in this too (to advise dosage and preparation).&#x20;
 
-> Never, ever go "omg let's just take a pill/tab/line for the first time"
+{% hint style="warning" %}
+Never, ever go "omg let's just take a pill/tab/line for the first time"
+{% endhint %}
 
 These drugs effect your chemical balance and can hurt you, sometimes permanently and fatally if you don't know what you are doing. However, if did somehow do too much Google how to calm from a bad trip or call 112. You can't be arrested or fined from overdosing or have taken drugs. So you are perfectly protected and safe.
 
