@@ -14,7 +14,7 @@ description: This is a collection of important social links you can use
 
 * AI Bachelor
   * [AI Students Discord](https://discord.gg/W3UUFaE8R7)
-* Gaming&#x20;
+* Gaming Group &#x20;
   * [Gaming Discord](https://discord.gg/Ymae4vZ22s)
 * VU Cyber Security Group&#x20;
   * [VU Cyber Security Group Discord](https://discord.gg/Ce5mrVBzqP)
