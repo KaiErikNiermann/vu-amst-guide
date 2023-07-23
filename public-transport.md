@@ -25,7 +25,7 @@ description: >-
 * When planning ahead, always have the assumption that you will miss the intended bus/tram/metro and will take the one after.
 * If GVB fucks up somehow, and there is no bus within 20 minutes anywhere near you and you are stranded, you can get a taxi and ask for a reimbursement from them.
 
-### Trains
+## Trains
 
 <figure><img src="https://lh4.googleusercontent.com/x2qWH-HuWmVFc9OTjQL8zmhQzJ2BHwl8dQeQ0ihFNe_1rpct0UugvISAMbT1RWKzMTWsiCDjoDWXrKXGiXT5Veg8iNTFRpNkqFEjql6oHUd_zDL8_HegAZqtZjhYKozXa5537_52zdHRwwTP79v7cO8" alt="" width="375"><figcaption><p>This is a train, incredible</p></figcaption></figure>
 
@@ -49,7 +49,7 @@ description: >-
 * For the second time and onwards, a 50 euro fee is appended to the normal ticket price
 * If you don’t carry any form of ID, the train will wait for the police to escort you to the nearest police station, making everyone unhappy.
 
-### Trams/Busses
+## Trams/Busses
 
 * You may not take your non-folding bike on board. Folding bikes are fine.
 * On trams and buses, you must request stops. Generally this is more required on buses, as trams usually stop anyways but always signal trams just in case not everyone is nice.
@@ -69,7 +69,7 @@ Metro (GVB Amsterdam, RET Den Haag/Rotterdam)
 * Metro trains in the Netherlands run on shared tracks. Lines typically share stops with one or more other lines on large portions of their route. Take this into account when planning your journey, or just have an app do it for you (9292.nl).
 * Departure boards show destination, countdown timer, and coach makeup (when the train is about to arrive). Be aware that some trains are shorter than others, and trains typically do not take up the entire platform (usually only a short section on RET, and sometimes on GVB).
 
-### Amsterdam Ferries
+## Amsterdam Ferries
 
 <figure><img src="https://lh4.googleusercontent.com/dcGnVizXMZsFO-H9SEZa18klDtLqasI-XHDerEyclfMR7wLQVWOcFOgPmWkDITfPHJEqVL6YQePMbpukG1gbnmQfpyyomvJPmnZ_lyVwJniwaBuZaPmpOI3xT8ee2H-WLfs0yr5UPxk8wZf220UkW4Q" alt="" width="375"><figcaption><p>A ferry, very cool !</p></figcaption></figure>
 
