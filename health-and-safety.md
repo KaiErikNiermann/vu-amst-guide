@@ -1,17 +1,12 @@
 ---
 description: >-
-  This page includes information regarding your health and safety during your
-  stay, please also consult other resources as this is an important thing to be
-  aware of
+  Although Amsterdam is really fun it's important to know and be aware of what
+  to do when things don't become so fun.
 ---
 
 # Health and Safety
 
-## Health and safety
-
-Although Amsterdam is really fun it's important to know and be aware of what to do when things don't become so fun.
-
-### GP AND MEDICAL NON EMERGENCIES
+## GP AND MEDICAL NON EMERGENCIES
 
 GPs can usually be easily found on Google Maps. Search “huisarts” and pick the one closest to you. Their website should have a means of registering. You can also as a VU student register with the VUmc, however this is not a good idea if you live far from campus.&#x20;
 
