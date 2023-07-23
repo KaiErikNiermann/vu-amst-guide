@@ -56,13 +56,12 @@ description: >-
 
 * You may not take your non-folding bike on board. Folding bikes are fine.
 * On trams and buses, you must request stops. Generally this is more required on buses, as trams usually stop anyways but always signal trams just in case not everyone is nice.
-*   On the older GVB trams -\
-    \
-    You can press the green buttons to open the doors early, before the tram stops. The doors will then open for you automatically when the tram stops. On the newer trams, just press the button when it illuminates.
+* On the older GVB trams you can press the green buttons to open the doors early, before the tram stops. The doors will then open for you automatically when the tram stops.&#x20;
+  * On the newer trams, just press the button when it illuminates.
 
-    <figure><img src="https://lh6.googleusercontent.com/2P27pWp9A9njftr2KQxSvJnWqykKpi6iNqUy7fuNmYgibycvNU1lCWB6mDaDn1q3e_VMW4CAJX53NxVXNmhC1CHtKJPLxxd5wzlBow4qneBaMUy0ynDYhyXrNNDfHWFd7r8dXnLNrF_pZ8oizfFD92s" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://lh6.googleusercontent.com/2P27pWp9A9njftr2KQxSvJnWqykKpi6iNqUy7fuNmYgibycvNU1lCWB6mDaDn1q3e_VMW4CAJX53NxVXNmhC1CHtKJPLxxd5wzlBow4qneBaMUy0ynDYhyXrNNDfHWFd7r8dXnLNrF_pZ8oizfFD92s" alt="" width="375"><figcaption><p>A tram, wowza</p></figcaption></figure>
 
-Metro (GVB Amsterdam, RET Den Haag/Rotterdam)
+* Metro (GVB Amsterdam, RET Den Haag/Rotterdam)
 
 <figure><img src="https://lh3.googleusercontent.com/36A8X95Ktyjekdd7wSRvyturI38KsF5pzWCh-IFmcj5kwuWe9UvWloiJk1TeuLijI7VtR_qTQBiOa2w1Sy3q2ghOOBHpfFq3F9pD8AJ5YIsibWEpPmf74xc99SLP8wmic-5Bfq73RE0Tqng_aAz6fTI" alt="" width="375"><figcaption><p>GVB Amsterdam</p></figcaption></figure>
 
