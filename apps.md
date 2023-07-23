@@ -5,11 +5,43 @@ description: >-
   to have
 ---
 
-# Apps
+# 📱 Apps
 
-<table data-header-hidden><thead><tr><th width="197">Name</th><th width="526">Description</th></tr></thead><tbody><tr><td>NS </td><td>for train travel. Generally not a good idea to use this for local public transport</td></tr><tr><td>GVB </td><td>for tram, bus, and metro travel in Amsterdam only.</td></tr><tr><td>9292 </td><td><p>(for all public transport that uses OV-chipkaart/OVpay, e.g. trains, trams, bus, ferry)</p><p>It is generally not a good idea to use Google/Apple Maps for public transport, as these services are not directly tied to the public transport companies and therefore may give outdated or inaccurate information. See the Public Transport section for more info</p></td></tr><tr><td>Fietsersbond Routeplanner</td><td><p>(vastly improved bicycle directions compared to Google Maps. App is only available in Dutch, but can be figured out using common sense)</p><p>Make sure to follow the biking laws! See <a href="https://www.youtube.com/watch?v=x-cYZo5kToM">this video</a> regarding signs, as well as following the advice in the Biking section!</p></td></tr><tr><td>Uber Eats /Thuisbezorgd /Deliveroo</td><td><p>(ordering food) </p><p><br></p></td></tr><tr><td>PayPal </td><td>(payment, especially good for online stuff. Purchases using iDeal will be handled via your bank’s mobile app) </td></tr><tr><td>Revolut / Bunq</td><td>(payment and crypto, you can also get a credit &#x26; debit card via revolut if registered in NL)</td></tr><tr><td>Buienradar and Buienalarm</td><td>(hyperlocal weather apps)</td></tr><tr><td>Canvas student</td><td>(Check your canvas information)</td></tr><tr><td>Gorillas/Getir/Flink</td><td>(Grocery delivery) </td></tr><tr><td>Uber/Bolt</td><td>(Taxi services - generally not advisable due to high cost and reliable public transport, except during late night hours from 1-5AM, but always check if a night bus is available)</td></tr><tr><td>DigiD </td><td>(government digital identity, tied to your BSN. Required to login to certain govt. services as well as health insurance websites)</td></tr></tbody></table>
+### Transportation
 
-\
+* **NS** for train travel. Generally not a good idea to use this for local public transport.
+* **GVB** for tram, bus, and metro travel in Amsterdam only.
+* **9292** for all public transport that uses OV-chipkaart/OVpay, e.g. trains, trams, bus, ferry. It is generally not a good idea to use Google/Apple Maps for public transport, as these services are not directly tied to the public transport companies and therefore may give outdated or inaccurate information. See the Public Transport section for more info.
 
+### Biking
 
-Learning dutch (& free government course): [https://www.amsterdam.nl/en/education/learning-dutch/](https://www.amsterdam.nl/en/education/learning-dutch/)&#x20;
+* **Fietsersbond Routeplanner** for vastly improved bicycle directions compared to Google Maps. The app is only available in Dutch, but can be figured out using common sense. Make sure to follow the biking laws! See this video regarding signs, as well as following the advice in the Biking section!
+
+### Food Delivery
+
+* **Uber Eats / Thuisbezorgd / Deliveroo** for ordering food.
+
+### Payment
+
+* **PayPal** for payment, especially good for online stuff. Purchases using iDeal will be handled via your bank’s mobile app.
+* **Revolut / Bunq** for payment and crypto. You can also get a credit & debit card via Revolut if registered in NL.
+
+### Weather
+
+* **Buienradar and Buienalarm** are hyperlocal weather apps.
+
+### Student Resources
+
+* **Canvas Student** to check your canvas information.
+
+### Grocery Delivery
+
+* **Gorillas / Getir / Flink** for grocery delivery.
+
+### Taxi Services
+
+* **Uber / Bolt** for taxi services. Generally not advisable due to high cost and reliable public transport, except during late night hours from 1-5 AM, but always check if a night bus is available.
+
+### Government Services
+
+* **DigiD** is a government digital identity, tied to your BSN (Burger Service Nummer). It is required to log in to certain government services as well as health insurance websites.
