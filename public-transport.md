@@ -19,13 +19,13 @@ description: >-
 * Likewise, OV-chipkaarts can only be used for transport, OV-fiets rental, and bike parking (see the Biking section). The new OVpay system has been introduced, coinciding with OV-chipkaart, that allows contactless card and mobile payment for public transport.
 * If you are travelling together with someone who has a discount during peak hours, make sure to get a Samenreiskorting (travel together discount) loaded onto your OV-chipkaart. This will allow you to travel for a reduced fare as long as you stay with the person who has a discount.
 * You are not allowed to go in loops on public transport. That is, if you are starting at Amsterdam Centraal, you are not allowed to take a train to Schiphol, not check out, and travel back to Amsterdam to get a free trip. You must check out whenever leaving a station. Ticket inspectors will check for this.
-* Speaking of not checking out, don’t forget to check in and out on public transport. Failure to check out usually means you pay a fuckton of money for a journey you didn’t take, although this can usually be refunded if you fill out some forms.&#x20;
+* Speaking of not checking out, don’t forget to check in and out on public transport. Failure to check out usually means you pay a fuckton of money for a journey you didn’t take, although this can usually be refunded if you fill out some forms.
 
 {% hint style="info" %}
-A neat tip: you don’t necessarily have to check out when physically leaving trams/busses - these methods usually have little screens on the card readers that show the next stop. When you see your stop on the screen, you can check out, even if the vehicle has not stopped moving yet. This way, you can exit quicker without holding up others.
+A neat tip: you don’t necessarily have to check out when physically leaving trams/busses These methods usually have little screens on the card readers that show the next stop. When you see your stop on the screen, you can check out, even if the vehicle has not stopped moving yet. This way, you can exit quicker without holding up others.
 {% endhint %}
 
-* Make sure to check out and back in when transferring between operators, i.e. NS and GVB. At stations with shared train platforms (Amsterdam Amstel, Duivendrecht, etc) there are convenient posts where you can quickly do this without passing through ticket barriers. Note, GVB does indeed not go to brussels.&#x20;
+* Make sure to check out and back in when transferring between operators, i.e. NS and GVB. At stations with shared train platforms (Amsterdam Amstel, Duivendrecht, etc) there are convenient posts where you can quickly do this without passing through ticket barriers. Note, GVB does indeed not go to brussels.
 * When planning ahead, always have the assumption that you will miss the intended bus/tram/metro and will take the one after.
 * If GVB fucks up somehow, and there is no bus within 20 minutes anywhere near you and you are stranded, you can get a taxi and ask for a reimbursement from them.
 
@@ -34,15 +34,14 @@ A neat tip: you don’t necessarily have to check out when physically leaving tr
 <figure><img src="https://lh4.googleusercontent.com/x2qWH-HuWmVFc9OTjQL8zmhQzJ2BHwl8dQeQ0ihFNe_1rpct0UugvISAMbT1RWKzMTWsiCDjoDWXrKXGiXT5Veg8iNTFRpNkqFEjql6oHUd_zDL8_HegAZqtZjhYKozXa5537_52zdHRwwTP79v7cO8" alt="" width="375"><figcaption><p>This is a train, incredible</p></figcaption></figure>
 
 * Non-folding bicycles are allowed on board for a fee during off-peak hours, weekends, and public holidays. Folding bikes are always allowed for free.
-* Be aware of train composition - there are times where trains are split into two sections, which will uncouple somewhere along the route and go in two different directions. Listen carefully to announcements and read the destination boards. Consult screens as sometimes an animation is played indicating this. If the train speaks Dutch for more than a minute, ask your local Dutch person in panic.&#x20;
+* Be aware of train composition - there are times where trains are split into two sections, which will uncouple somewhere along the route and go in two different directions. Listen carefully to announcements and read the destination boards. Consult screens as sometimes an animation is played indicating this. If the train speaks Dutch for more than a minute, ask your local Dutch person in panic.
 * “Rijdt niet” = cancelled.
 * Riding in first class is almost never necessary. First class is not much better at all and should only be considered if the train is super busy and you want to sit down.
 * Intercity services do not stop at all stations. Sprinter services do (with very few exceptions - e.g. trains only stop at Rotterdam Stadion when a football match is happening).
 * Sometimes, trains may be cancelled due to work on the tracks. In most cases, replacement bus services will be provided, although for longer distances it is advisable to just find a different train route. Follow signs for NS buses. NOTE: NS buses will not run if there is a strike!
 * You may take German IC(E) trains on an OV-chipkaart, as long as your destination is within the Netherlands. ICE trains require an extra fee, unless you have the student travel product. You may not take trains that require a reservation (Thalys, Eurostar, Nightjet) with an OV-chipkaart).
 * Travelling on the Intercity direct services from Amsterdam to Rotterdam requires an extra fee if your journey goes between Schiphol and Rotterdam CS. There are fare poles on station platforms to pay this fee before entering the train.
-*   Departure boards on platforms show you the final destination, departure time, and coach makeup of trains.\
-
+*   Departure boards on platforms show you the final destination, departure time, and coach makeup of trains.\\
 
     <figure><img src="https://lh6.googleusercontent.com/5zho5AMk2Tcc8HJowJonrGjf1XnmIE5FxSiwNhQ1WooDgYslfNigJG-3ZlZbQPsZZr9ReRZh2yXvsKfLotwvTdGy-I_Y9PKSwE9V0WsG1g2LOjWKG6lNuq-gdXXyYCrdKlmtVh6b42N4ROt9Dy0ZuP0" alt="" width="375"><figcaption><p>Departure board</p></figcaption></figure>
 
@@ -50,7 +49,7 @@ A neat tip: you don’t necessarily have to check out when physically leaving tr
     * Coach makeup diagrams also have a train direction indicator. The screens are perpendicular to the tracks, which makes it a bit confusing. Just imagine pushing the screen, rotating it so that it’s parallel with the tracks and the arrow will show you which way the train will go.
     * You can use the coach makeup diagrams to find where your train will stop. If you see 6 coaches, look for a blue diamond-shaped sign with a 6 on it nearby the track. This is where the front of the train will stop.
 * If you forgot to check in because you caught the train last minute (from a station with only poles instead of ticket barriers), try to find an inspector as soon as possible. Their natural habitat is around first class seats, or hiding in the rear-facing driver’s cab (in which case you need to wait until the next station). If you end up being found out without a ticket and you have an ov-chipkaart, you will:
-  * For the first time happening be charged the normal fare and will be given a ticket&#x20;
+  * For the first time happening be charged the normal fare and will be given a ticket
   * For the second time and onwards, a 50 euro fee is appended to the normal ticket price
   * If you don’t carry any form of ID, the train will wait for the police to escort you to the nearest police station, making everyone unhappy.
 
@@ -58,7 +57,7 @@ A neat tip: you don’t necessarily have to check out when physically leaving tr
 
 * You may not take your non-folding bike on board. Folding bikes are fine.
 * On trams and buses, you must request stops. Generally this is more required on buses, as trams usually stop anyways but always signal trams just in case not everyone is nice.
-* On the older GVB trams you can press the green buttons to open the doors early, before the tram stops. The doors will then open for you automatically when the tram stops.&#x20;
+* On the older GVB trams you can press the green buttons to open the doors early, before the tram stops. The doors will then open for you automatically when the tram stops.
   * On the newer trams, just press the button when it illuminates.
 
 <figure><img src="https://lh6.googleusercontent.com/2P27pWp9A9njftr2KQxSvJnWqykKpi6iNqUy7fuNmYgibycvNU1lCWB6mDaDn1q3e_VMW4CAJX53NxVXNmhC1CHtKJPLxxd5wzlBow4qneBaMUy0ynDYhyXrNNDfHWFd7r8dXnLNrF_pZ8oizfFD92s" alt="" width="375"><figcaption><p>A tram, wowza</p></figcaption></figure>
