@@ -4,7 +4,7 @@ description: >-
   and around Amsterdam.
 ---
 
-# Public Transport
+# 🚊 Public Transport
 
 ## General
 
@@ -20,7 +20,9 @@ description: >-
 * If you are travelling together with someone who has a discount during peak hours, make sure to get a Samenreiskorting (travel together discount) loaded onto your OV-chipkaart. This will allow you to travel for a reduced fare as long as you stay with the person who has a discount.
 * You are not allowed to go in loops on public transport. That is, if you are starting at Amsterdam Centraal, you are not allowed to take a train to Schiphol, not check out, and travel back to Amsterdam to get a free trip. You must check out whenever leaving a station. Ticket inspectors will check for this.
 * Speaking of not checking out, don’t forget to check in and out on public transport. Failure to check out usually means you pay a fuckton of money for a journey you didn’t take, although this can usually be refunded if you fill out some forms.&#x20;
-* A neat tip: you don’t necessarily have to check out when physically leaving trams/busses - these methods usually have little screens on the card readers that show the next stop. When you see your stop on the screen, you can check out, even if the vehicle has not stopped moving yet. This way, you can exit quicker without holding up others.
+
+> A neat tip: you don’t necessarily have to check out when physically leaving trams/busses - these methods usually have little screens on the card readers that show the next stop. When you see your stop on the screen, you can check out, even if the vehicle has not stopped moving yet. This way, you can exit quicker without holding up others.
+
 * Make sure to check out and back in when transferring between operators, i.e. NS and GVB. At stations with shared train platforms (Amsterdam Amstel, Duivendrecht, etc) there are convenient posts where you can quickly do this without passing through ticket barriers. Note, GVB does indeed not go to brussels.&#x20;
 * When planning ahead, always have the assumption that you will miss the intended bus/tram/metro and will take the one after.
 * If GVB fucks up somehow, and there is no bus within 20 minutes anywhere near you and you are stranded, you can get a taxi and ask for a reimbursement from them.
@@ -41,13 +43,14 @@ description: >-
 
 
     <figure><img src="https://lh6.googleusercontent.com/5zho5AMk2Tcc8HJowJonrGjf1XnmIE5FxSiwNhQ1WooDgYslfNigJG-3ZlZbQPsZZr9ReRZh2yXvsKfLotwvTdGy-I_Y9PKSwE9V0WsG1g2LOjWKG6lNuq-gdXXyYCrdKlmtVh6b42N4ROt9Dy0ZuP0" alt="" width="375"><figcaption><p>Departure board</p></figcaption></figure>
-* Departure times are accompanied by a countdown timer in the last 10 minutes before a train leaves
-* Coach makeup diagrams also have a train direction indicator. The screens are perpendicular to the tracks, which makes it a bit confusing. Just imagine pushing the screen, rotating it so that it’s parallel with the tracks and the arrow will show you which way the train will go.
-* You can use the coach makeup diagrams to find where your train will stop. If you see 6 coaches, look for a blue diamond-shaped sign with a 6 on it nearby the track. This is where the front of the train will stop.
+
+    * Departure times are accompanied by a countdown timer in the last 10 minutes before a train leaves
+    * Coach makeup diagrams also have a train direction indicator. The screens are perpendicular to the tracks, which makes it a bit confusing. Just imagine pushing the screen, rotating it so that it’s parallel with the tracks and the arrow will show you which way the train will go.
+    * You can use the coach makeup diagrams to find where your train will stop. If you see 6 coaches, look for a blue diamond-shaped sign with a 6 on it nearby the track. This is where the front of the train will stop.
 * If you forgot to check in because you caught the train last minute (from a station with only poles instead of ticket barriers), try to find an inspector as soon as possible. Their natural habitat is around first class seats, or hiding in the rear-facing driver’s cab (in which case you need to wait until the next station). If you end up being found out without a ticket and you have an ov-chipkaart, you will:
-* For the first time happening be charged the normal fare and will be given a ticket&#x20;
-* For the second time and onwards, a 50 euro fee is appended to the normal ticket price
-* If you don’t carry any form of ID, the train will wait for the police to escort you to the nearest police station, making everyone unhappy.
+  * For the first time happening be charged the normal fare and will be given a ticket&#x20;
+  * For the second time and onwards, a 50 euro fee is appended to the normal ticket price
+  * If you don’t carry any form of ID, the train will wait for the police to escort you to the nearest police station, making everyone unhappy.
 
 ## Trams/Busses
 
