@@ -14,6 +14,10 @@ This website contains information collected and written by students who have liv
 
 > [**Main CS Discord Invite**](https://discord.gg/MGG72qsKrn)
 
+If you are a CS student or just curious what the CS program looks like checkout the resource hub, this includes everything from notes to previous exams to course content, all for free !&#x20;
+
+> [**CS Resource Hub**](https://lausta.notion.site/CS-Hub-6e7cae889f844cb59ae5f1809c88e553)
+
 ### Other groups
 
 * AI Bachelor
