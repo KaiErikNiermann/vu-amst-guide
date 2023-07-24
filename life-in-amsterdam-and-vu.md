@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page includes some links relating to life in Amsterdam and the
-  VU               ( click on the titles for the links ).
+  This page includes some links relating to life in Amsterdam and the VU ( click
+  on the titles for the links ).
 ---
 
 # 🏡 Life in Amsterdam and VU
