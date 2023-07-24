@@ -22,12 +22,14 @@ description: >-
 * Speaking of not checking out, don’t forget to check in and out on public transport. Failure to check out usually means you pay a fuckton of money for a journey you didn’t take, although this can usually be refunded if you fill out some forms.
 
 {% hint style="info" %}
-A neat tip: you don’t necessarily have to check out when physically leaving trams/busses These methods usually have little screens on the card readers that show the next stop. When you see your stop on the screen, you can check out, even if the vehicle has not stopped moving yet. This way, you can exit quicker without holding up others.
+**A neat tip,** you don’t necessarily have to check out when physically leaving trams/busses These methods usually have little screens on the card readers that show the next stop. When you see your stop on the screen, you can check out, even if the vehicle has not stopped moving yet. This way, you can exit quicker without holding up others.
 {% endhint %}
 
 * Make sure to check out and back in when transferring between operators, i.e. NS and GVB. At stations with shared train platforms (Amsterdam Amstel, Duivendrecht, etc) there are convenient posts where you can quickly do this without passing through ticket barriers. Note, GVB does indeed not go to brussels.
 * When planning ahead, always have the assumption that you will miss the intended bus/tram/metro and will take the one after.
 * If GVB fucks up somehow, and there is no bus within 20 minutes anywhere near you and you are stranded, you can get a taxi and ask for a reimbursement from them.
+
+***
 
 ## Trains
 
@@ -53,6 +55,8 @@ A neat tip: you don’t necessarily have to check out when physically leaving tr
   * For the second time and onwards, a 50 euro fee is appended to the normal ticket price
   * If you don’t carry any form of ID, the train will wait for the police to escort you to the nearest police station, making everyone unhappy.
 
+***
+
 ## Trams/Busses
 
 * You may not take your non-folding bike on board. Folding bikes are fine.
@@ -71,6 +75,8 @@ A neat tip: you don’t necessarily have to check out when physically leaving tr
 * See the bike rules for trains. Allowed for a fee only during off-peak hours, weekends, holidays. Folding bikes are always allowed for free.
 * Metro trains in the Netherlands run on shared tracks. Lines typically share stops with one or more other lines on large portions of their route. Take this into account when planning your journey, or just have an app do it for you (9292.nl).
 * Departure boards show destination, countdown timer, and coach makeup (when the train is about to arrive). Be aware that some trains are shorter than others, and trains typically do not take up the entire platform (usually only a short section on RET, and sometimes on GVB).
+
+***
 
 ## Amsterdam Ferries
 
