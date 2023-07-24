@@ -6,7 +6,7 @@ description: >-
 
 # 🏡 Life in Amsterdam and VU
 
-[**All textbook pdfs**](https://drive.google.co/mdrive/folders/1-mRDM9CoQKjDGkRMUBlgEsw7lgkex49v)
+[**All CS Bsc textbook pdfs**](https://drive.google.co/mdrive/folders/1-mRDM9CoQKjDGkRMUBlgEsw7lgkex49v)
 
 This is a collection of most (/all) of the required textbooks. Textbooks are usually rather costly so we hope this helps.
 
