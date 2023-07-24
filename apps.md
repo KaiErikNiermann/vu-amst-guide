@@ -67,7 +67,11 @@ I don't believe Revolut gives you an actual dutch IBAN which is sometimes necess
 
 ### Grocery Delivery
 
-**Gorillas / Getir / Flink** for grocery delivery.
+**Gorillas / Getir / Flink / Picnic** for grocery delivery.
+
+{% hint style="warning" %}
+These apps often charge a considerable markup over just regular grocery stores, so just keep that in mind.
+{% endhint %}
 
 ***
 
