@@ -59,7 +59,9 @@ description: >-
 * [Roommate and Flat Finder Amsterdam](https://www.facebook.com/groups/amsterdamroomskamers/)
 * [Woningen te huur in Amsterdam](https://www.facebook.com/groups/woningeninamsterdam/)
 
-Feel free to add places you know about and ask questions about anything listed in the #housing channel on Discord. I'll add information about everything likely after period 6 is over.
+{% hint style="info" %}
+Feel free to add places you know about and ask questions about anything listed in the [#housing](https://canary.discord.com/channels/862806660249944091/988886047947624518) channel on [Discord](https://discord.gg/MGG72qsKrn). 
+{% endhint %}
 
 ### Tips and Tricks
 
