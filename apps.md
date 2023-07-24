@@ -26,7 +26,7 @@ It is generally not a good idea to use Google/Apple Maps for public transport, a
 **Fietsersbond Routeplanner** for vastly improved bicycle directions compared to Google Maps. The app is only available in Dutch, but can be figured out using common sense.&#x20;
 
 {% hint style="warning" %}
-Make sure to follow the biking laws! See this video regarding signs, as well as following the advice in the Biking section!
+Make sure to follow the biking laws! See [this video](https://www.youtube.com/watch?v=x-cYZo5kToM) regarding signs, as well as following the advice in the Biking section!
 {% endhint %}
 
 ***
