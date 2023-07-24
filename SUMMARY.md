@@ -8,4 +8,4 @@
 * [🚲 Biking - a mostly comprehensive guide](biking-a-mostly-comprehensive-guide.md)
 * [🕸 Useful Links from the VU Website](useful-links-from-the-vu-website.md)
 * [🏘 Housing Resources for Students in Amsterdam](housing-resources-for-students-in-amsterdam.md)
-* [Contributing](contributing.md)
+* [🖥 Contributing](contributing.md)
