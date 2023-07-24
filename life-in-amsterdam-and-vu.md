@@ -28,8 +28,13 @@ This is an excellent guide from reddit we highly recommend you read through.
 
 [**Housing**](https://docs.google.com/document/d/1ozPf7sfI6Auh0GI2xT\_g7csGCrKKj4tCFkUJP1WMfyI/edit)
 
-This is an excellent google doc with housing resources, the same resources are also copied over on the last page of this site.\
-\
+This is an excellent google doc with housing resources, the same resources are also copied over on the last page of this site.
+
+[**General guides (subreddit)**](https://www.reddit.com/r/StudyInTheNetherlands/)
+
+This subreddit contains alot of good information and resources, there is some overlap with what is contained here and some elaboration with certain respects check the pinned posts.&#x20;
+
+Credit to [u/SwainTheMain](https://www.reddit.com/user/SwainTheMain/) for creating these guides.\
 
 
 \
