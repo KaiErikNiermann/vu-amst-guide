@@ -24,7 +24,9 @@ description: >-
 
 * [Connect Sociuswonen](https://connect.sociuswonen.nl/)
 
-**Careful with the 5 links below!!! Everything else listed is from organizations but this is private sector renting, don't get scammed!**
+{% hint style="warning" %}
+**Careful with the 5 links below**, everything else listed is from organizations but this is private sector renting, don't get scammed!
+{% endhint %}
 
 * [Kamernet](https://kamernet.nl/en)
 * [Kamer.nl](https://www.kamer.nl/en/)
