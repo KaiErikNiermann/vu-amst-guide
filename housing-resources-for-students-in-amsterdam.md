@@ -60,23 +60,45 @@ description: >-
 * [Woningen te huur in Amsterdam](https://www.facebook.com/groups/woningeninamsterdam/)
 
 {% hint style="info" %}
-Feel free to add places you know about and ask questions about anything listed in the [#housing](https://canary.discord.com/channels/862806660249944091/988886047947624518) channel on [Discord](https://discord.gg/MGG72qsKrn). 
+Feel free to add places you know about and ask questions about anything listed in the [#housing](https://canary.discord.com/channels/862806660249944091/988886047947624518) channel on [Discord](https://discord.gg/MGG72qsKrn).
 {% endhint %}
 
 ### Tips and Tricks
 
-**Hot Tip #1:** Uni will recommend you Wendy from Expat services. She is a scam.
+{% hint style="info" %}
+**Hot Tip #1**
 
-**Hot Tip #2:** If it's too good, 99% a scam. ALWAYS ASK FOR A VIEWING AND FLOORPLANS FIRST BEFORE PAYING ANYTHING!!!!
+Uni will recommend you Wendy from Expat services. She is a scam.
+{% endhint %}
 
-**Hot Tip #3:** Finding a place to live is a full-time job! Go to viewings! Talk to people! Call around! Expect it to eat up a lot of time in your day.
+{% hint style="info" %}
+**Hot Tip #2**
 
-**Hot Tip #4:** Unless you really have no other option, get a place where you can register. You need a BSN and you need to have your address registered. Your life will be way harder without those things + you'll be forced to pay tourist tax.
+If it's too good, 99% a scam. ALWAYS ASK FOR A VIEWING AND FLOORPLANS FIRST BEFORE PAYING ANYTHING!!!!
+{% endhint %}
 
-**Hot Tip #5:** During summer, a huge housing bubble forms as everyone and their mother begins searching for a new place to stay. As a result, prices inflate to exorbitant amounts. You may want to wait out this period at home, see what options you have with online uni (or traveling if you're Dutch), and come back around October after the bubble has burst.
+{% hint style="info" %}
+**Hot Tip #3**
 
-**Hot Tip #6:** Set alarms to receive newly listed rooms/apartments and call/reply ASAP. If you're techy enough, you could probably make a script for it :)
+Finding a place to live is a full-time job! Go to viewings! Talk to people! Call around! Expect it to eat up a lot of time in your day.
+{% endhint %}
 
+{% hint style="info" %}
+**Hot Tip #4**&#x20;
 
+Unless you really have no other option, get a place where you can register. You need a BSN and you need to have your address registered. Your life will be way harder without those things + you'll be forced to pay tourist tax.
+{% endhint %}
 
-This page is based on a google doc, so full credit to the student who made it, [original doc](https://docs.google.com/document/d/1ozPf7sfI6Auh0GI2xT\_g7csGCrKKj4tCFkUJP1WMfyI/edit)&#x20;
+{% hint style="info" %}
+**Hot Tip #5**
+
+During summer, a huge housing bubble forms as everyone and their mother begins searching for a new place to stay. As a result, prices inflate to exorbitant amounts. You may want to wait out this period at home, see what options you have with online uni (or traveling if you're Dutch), and come back around October after the bubble has burst.
+{% endhint %}
+
+{% hint style="info" %}
+**Hot Tip #6**
+
+Set alarms to receive newly listed rooms/apartments and call/reply ASAP. If you're techy enough, you could probably make a script for it :)
+{% endhint %}
+
+This page is based on a google doc, so full credit to the student who made it, [original doc](https://docs.google.com/document/d/1ozPf7sfI6Auh0GI2xT\_g7csGCrKKj4tCFkUJP1WMfyI/edit)
