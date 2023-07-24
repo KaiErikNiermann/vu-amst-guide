@@ -24,7 +24,11 @@ The student ID card is useful for various purposes on campus.
 
 [**Life in Amsterdam**](https://www.reddit.com/r/Amsterdam/comments/9frcwf/the\_ultimate\_amsterdam\_survival\_and/)
 
-This is an excellent guide from reddit we highly recommend you read through.\
+This is an excellent guide from reddit we highly recommend you read through.
+
+[**Housing**](https://docs.google.com/document/d/1ozPf7sfI6Auh0GI2xT\_g7csGCrKKj4tCFkUJP1WMfyI/edit)
+
+This is an excellent google doc with housing resources, the same resources are also copied over on the last page of this site.\
 \
 
 
