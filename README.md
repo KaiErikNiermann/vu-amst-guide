@@ -5,7 +5,7 @@ description: This is a collection of important social links you can use
 # ❗ Main social links
 
 {% hint style="info" %}
-This website contains collected and written by students who have lived in Amsterdam and attend the VU for a good amount of time. While we have ensured that most of the information is indeed correct please always consult other sources as well and don't hesitate to contact us on [the discord](https://discord.com/invite/MGG72qsKrn) if you spot anything incorrect. We hope you enjoy your stay here !
+This website contains information collected and written by students who have lived in Amsterdam and attend the VU for a good amount of time. While we have ensured that most of the information is indeed correct please always consult other sources as well and don't hesitate to contact us on [the discord](https://discord.com/invite/MGG72qsKrn) if you spot anything incorrect. We hope you enjoy your stay here !
 {% endhint %}
 
 ## MAIN CS DISCORD (for all years)
