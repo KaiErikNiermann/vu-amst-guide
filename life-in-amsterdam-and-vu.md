@@ -6,9 +6,9 @@ description: >-
 
 # 🏡 Life in Amsterdam and VU
 
-[**All CS Bsc textbook pdfs**](https://drive.google.co/mdrive/folders/1-mRDM9CoQKjDGkRMUBlgEsw7lgkex49v)
+[**All CS Bsc textbook pdfs**](https://drive.google.com/drive/folders/1-mRDM9CoQKjDGkRMUBlgEsw7lgkex49v)
 
-This is a collection of most (/all) of the required textbooks. Textbooks are usually rather costly so we hope this helps.
+This is a collection of most (/all) of the required textbooks. Textbooks are usually rather costly so we hope this helps. Join the [cs discord](https://discord.gg/MGG72qsKrn) if you want the latest textbooks.
 
 [**Public transport card**](https://www.ov-chipkaart.nl/everything-about-travelling/different-types-of-passenger/students.htm)
 
