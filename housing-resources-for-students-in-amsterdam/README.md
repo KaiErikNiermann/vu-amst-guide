@@ -6,6 +6,8 @@ description: >-
 
 # 🏘 Housing Resources for Students in Amsterdam
 
+&#x20;**Full credit to the student who made the** [**original doc**](https://docs.google.com/document/d/1ozPf7sfI6Auh0GI2xT\_g7csGCrKKj4tCFkUJP1WMfyI/edit) **on which this page is based on**
+
 ### Places to Sign Up ASAP and Build Registration Time
 
 * [Room.nl](https://www.room.nl/en/home)
@@ -100,5 +102,3 @@ During summer, a huge housing bubble forms as everyone and their mother begins s
 
 Set alarms to receive newly listed rooms/apartments and call/reply ASAP. If you're techy enough, you could probably make a script for it :)
 {% endhint %}
-
-This page is based on a google doc, so full credit to the student who made it, [original doc](https://docs.google.com/document/d/1ozPf7sfI6Auh0GI2xT\_g7csGCrKKj4tCFkUJP1WMfyI/edit)
