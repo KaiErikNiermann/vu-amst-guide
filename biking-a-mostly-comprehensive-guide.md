@@ -5,7 +5,7 @@ description: >-
   BEFORE READING FURTHER!!!
 ---
 
-# Biking - a mostly comprehensive guide
+# 🚲 Biking - a mostly comprehensive guide
 
 ## General (unwritten) rules:
 

@@ -4,7 +4,7 @@ description: >-
   matters relating to the VU
 ---
 
-# Useful Links from the VU Website
+# 🕸 Useful Links from the VU Website
 
 ## Here are some useful links from the VU (Vrije Universiteit Amsterdam) website:
 
