@@ -39,6 +39,14 @@ Make sure to follow the biking laws! See [this video](https://www.youtube.com/wa
 Alot of times restraurants have their own websites where ordering from is generally cheaper than Uber Eats and often gives you benefits. So make sure to lookup where you wanna order from online before you use an app.
 {% endhint %}
 
+### Food Pickup
+
+**Too Good To Go (TGTG)**
+
+{% hint style="info" %}
+You can get alot of really cheap good stuff from here. You just reserve it on the app then show you phone at the counter when you arrive. Highly recommended !
+{% endhint %}
+
 ***
 
 ### Payment
