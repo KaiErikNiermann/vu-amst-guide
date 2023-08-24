@@ -88,9 +88,15 @@ Card sharing is also a thing here, for a random card generator checkout [this we
 
 ***
 
-### Other
+### Additional advice and tips
 
+#### Use existing travel routes to you're advantage
 
+A really good strategy, especially if you don't have any grocery stores near you, is to see if there are any on the route to VU or just go to ones near VU, there is an AH XL (very large AH) [here](https://www.google.com/maps/place/Albert+Heijn+XL/@52.3294215,4.8634529,16z/data=!4m6!3m5!1s0x47c60a1196bf3617:0x9077866fdb2ca225!8m2!3d52.3310447!4d4.8778367!16s%2Fg%2F11btm9xqhj?entry=ttu) . There is also one near the metro station Amsterdam Zuid [here](https://www.google.com/maps/place/Albert+Heijn/@52.3349268,4.8645256,16z/data=!4m6!3m5!1s0x47c60a0590942457:0x8c9000c99a63400d!8m2!3d52.3364489!4d4.8719072!16s%2Fg%2F11fylqg\_y1?entry=ttu) which is nice to combine if you go to / come from the station anyways.
+
+{% hint style="info" %}
+Also one thing of note is that VU does have a Spar on campus but remember the markup.
+{% endhint %}
 
 ***
 
