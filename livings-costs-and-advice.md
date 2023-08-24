@@ -34,9 +34,17 @@ In the app also checkout the Bonus Box, this is a selection of items which you c
 While you likely cant get in trouble for using someone else's card if you decide to share your card basically the worst thing that can happen is that the AH deactivates your bonus card.
 {% endhint %}
 
+**Custom cards**
+
 Due to the popularity of AH there is [a community](https://www.reddit.com/r/persoonlijkebonus/) of people that share bonus cards which have special deals. You should just be able to download the images of the barcodes and then scan them at checkout the active whatever deal is activated on the bonus card of the person sharing.
 
+**Plain cards**
+
 Alternatively if you just forgot your bonus card but you still want some of the deals that just exist within the store then you can just get a plain card barcode from [this website](https://bonuskaart-ah.nl/) or [this website](https://randombonuskaart.nl/) this is a plain bonus card which should at least give you the normal deals in the store.
+
+{% hint style="warning" %}
+The **BONUS** discounts you will see in AH _**only apply if you have the card**_ so if you just scan an item with a BONUS on it then this bonus will only apply if you actually scan a bonus card, something important to be aware of.
+{% endhint %}
 
 ***
 
