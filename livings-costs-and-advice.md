@@ -72,15 +72,19 @@ Lidl is also on the cheaper side, it has a more built out tech side with a nice 
 
 ### Jumbo
 
-Jumbo is generally compared to AH in terms of pricing, as usual they have a [website ](https://www.jumbo.com/)and an app.
+Jumbo is generally compared to AH in terms of pricing, as usual they have a [website ](https://www.jumbo.com/)and an app. Jumbo similar to Lidl and AH also have also costumer card which you should be able to activate within the app.
+
+[App for android](https://play.google.com/store/apps/details?id=com.icemobile.jumboclient\&hl=nl)
+
+[App for apple](https://apps.apple.com/nl/app/jumbo/id936150402)
 
 {% hint style="info" %}
 If you wanna go to Jumbo vs AH it really depends on the product offerings and the pricing, if you have either equidistant from your home then it doesn't really matter too much which you go to, in general I'd recommend to just look at what they offer and see where you can get it for cheaper or at all.
 {% endhint %}
 
-[App for android](https://play.google.com/store/apps/details?id=com.icemobile.jumboclient\&hl=nl)
+#### Card sharing
 
-[App for apple](https://apps.apple.com/nl/app/jumbo/id936150402)
+Card sharing is also a thing here, for a random card generator checkout [this website](https://randomextrapas.nl/).
 
 ***
 
