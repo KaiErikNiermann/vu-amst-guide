@@ -98,6 +98,10 @@ A really good strategy, especially if you don't have any grocery stores near you
 Also one thing of note is that VU does have a Spar on campus but remember the markup.
 {% endhint %}
 
+#### Avoid prepackaged
+
+This applies to basically all grocery stores, they often sell like prepackaged vegetables or like boxes which contain all the stuff for a meal. But most of the time, especially the stuff in plastic bags, has a considerable markup and goes bad _much_ faster. So just buy fresh stuff that ain't precut / prepackaged.
+
 ***
 
 ### Grocery store summary
