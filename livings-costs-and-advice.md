@@ -94,11 +94,21 @@ Card sharing is also a thing here, for a random card generator checkout [this we
 
 ***
 
+### Grocery store summary
+
+<table><thead><tr><th width="125">Aspects</th><th width="77">AH</th><th width="114">AH to-go</th><th width="114">Spar</th><th width="84">Jumbo</th><th width="114">Dirk</th><th>Lidl</th></tr></thead><tbody><tr><td>Price</td><td>High</td><td>Very high</td><td>Very high</td><td>High </td><td>Low</td><td>Low</td></tr><tr><td>App </td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Locations</td><td>Many</td><td>Somewhat many</td><td>Somewhat many</td><td>Many</td><td>Somewhat many</td><td>Somewhat many</td></tr><tr><td>Products</td><td>Many</td><td>Not many </td><td>Not many</td><td>Many</td><td>Many</td><td>Many</td></tr></tbody></table>
+
+{% hint style="info" %}
+The general consensus with alot of people is that you should do most of your shopping at Dirk or Lidl then for maybe the last 10% of your groceries to to AH or Jumbo, and remember to always look at bonuses/discounts if you're on a tight buget.
+{% endhint %}
+
+***
+
 ## Furniture
 
 ### IKEA
 
-
+Kind of an obvious candidate, unless you are staying for a longer amount of time and maybe want some more high quality stuff IKEA is really good for 99% of what you need, they even do deliveries. You can easily kit out an **entire room** with anywhere from like 500 - 1000€&#x20;
 
 ***
 
