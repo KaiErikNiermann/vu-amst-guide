@@ -36,7 +36,7 @@ While you likely cant get in trouble for using someone else's card if you decide
 
 Due to the popularity of AH there is [a community](https://www.reddit.com/r/persoonlijkebonus/) of people that share bonus cards which have special deals. You should just be able to download the images of the barcodes and then scan them at checkout the active whatever deal is activated on the bonus card of the person sharing.
 
-Alternatively if you just forgot your bonus card but you still want some of the deals that just exist within the store then you can just get a plain card barcode from [this website](https://bonuskaart-ah.nl/) this is a plain bonus card which should at least give you the normal deals in the store.
+Alternatively if you just forgot your bonus card but you still want some of the deals that just exist within the store then you can just get a plain card barcode from [this website](https://bonuskaart-ah.nl/) or [this website](https://randombonuskaart.nl/) this is a plain bonus card which should at least give you the normal deals in the store.
 
 ***
 
