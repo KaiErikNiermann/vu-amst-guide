@@ -90,9 +90,17 @@ Card sharing is also a thing here, for a random card generator checkout [this we
 
 ### Other
 
+
+
+***
+
 ## Furniture
 
 ### IKEA
+
+
+
+***
 
 ### WhatsApp groups
 
@@ -102,9 +110,15 @@ One very easy way to get Furniture is to see if there is a group chat for the pl
 If there is no existing WhatsApp group then I would strongly advise to make one. Its really beneficial to have at least some line of communication with your neighbors, you can just print out and hand a invite code in your hallway.
 {% endhint %}
 
+***
+
 ## Appliances
 
-Coming soon
+While most places generally come stocked with the required appliances it can sometimes happen that you need something.
+
+### CoolBlue
+
+If you need appliances on a more short term basis or just really don't want to buy them then CoolBlue offers a subscription based service for appliances on [their website](https://www.coolblue.nl/en/subscriptions).
 
 ## Health insurance
 
