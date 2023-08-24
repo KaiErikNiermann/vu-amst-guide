@@ -11,3 +11,4 @@
 * [🏘 Housing Resources for Students in Amsterdam](housing-resources-for-students-in-amsterdam/README.md)
   * [🏠 More housing tips](housing-resources-for-students-in-amsterdam/more-housing-tips.md)
 * [🖥 Contributing](contributing.md)
+* [💵 Livings costs and advice](livings-costs-and-advice.md)
