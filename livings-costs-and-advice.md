@@ -98,6 +98,10 @@ Card sharing is also a thing here, for a random card generator checkout [this we
 
 One very easy way to get Furniture is to see if there is a group chat for the place you are living. Very often people moving out want to get rid of their furniture and will often sell it for extremely cheap or even just give it away since people rarely take it with them when moving, so its a great opportunity to snag really cheap furniture items.
 
+{% hint style="info" %}
+If there is no existing WhatsApp group then I would strongly advise to make one. Its really beneficial to have at least some line of communication with your neighbors, you can just print out and hand a invite code in your hallway.
+{% endhint %}
+
 ## Appliances
 
 Coming soon
