@@ -148,7 +148,37 @@ While most places generally come stocked with the required appliances it can som
 
 If you need appliances on a more short term basis or just really don't want to buy them then CoolBlue offers a subscription based service for appliances on [their website](https://www.coolblue.nl/en/subscriptions).
 
+***
+
 ## Health insurance
 
-##
+### Finding insurance
 
+{% hint style="danger" %}
+If you are a working student you **need Dutch health insurance, even if you have private.**
+{% endhint %}
+
+If you need to find insurance, most commonly because you [started working](https://www.studyinnl.org/plan-your-stay/insurance), then you can use [this](https://www.zorgwijzer.nl/zorgvergelijker/english#/search) excellent tool to compare different plans. When deciding on which plan to get it depends on two things
+
+1. **You will use it**, in which case you should actually compare the different offerings, it will still be free if you apply for the healthcare allowance but be sure to check what you are getting here and if it fits your needs.
+2. **You will likely not use it**, this probably applies for most people if you are a healthy individual and/or already have health insurance in your home country and can just go to the doctors there. In this case it doesn't really matter what you pick, the health care allowance covers the price.
+
+### Getting it for free
+
+{% hint style="warning" %}
+**If you are currently insured and have not applied** do not be worried, still apply as normal and they will pay you for all the months after the fact.
+{% endhint %}
+
+This is probably the most important part, you want to apply for **Zorgtoeslag (healthcare allowance)** this is quite literally free money to pay for your _entire_ health insurance, to apply for it go -> [HERE ](https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/toeslagen)
+
+{% hint style="warning" %}
+Be aware that if you apply for healthcare allowance for months which you are _**not insured**_ you will **have to pay this money back**.&#x20;
+
+So make sure that when you apply for healthcare allowance, you only apply for the exact months you are covered. In the case you are working a parttime job this is precisely the months your work contract is valid.
+{% endhint %}
+
+{% hint style="info" %}
+**support**
+
+Don't be afraid to contact the support, they are excellent at helping out, this can be a confusing process, and they sometimes get information wrong when applying.
+{% endhint %}
