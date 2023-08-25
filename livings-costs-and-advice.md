@@ -124,6 +124,10 @@ The general consensus with alot of people is that you should do most of your sho
 
 ## Furniture
 
+{% hint style="info" %}
+**Stay minimal**, if you are likely going to move out again soon I would recommend you stick to the bare essentials when it comes to furniture, its a common problem when moving out having to get rid of furniture, so unless you are ok dealing with that stress and potentially wasting money on furniture you have to quickly sell/discard just stick wih essentials.
+{% endhint %}
+
 ### IKEA
 
 Kind of an obvious candidate, unless you are staying for a longer amount of time and maybe want some more high quality stuff IKEA is really good for 99% of what you need, they even do deliveries. You can easily kit out an **entire room** with anywhere from like 500 - 1000€&#x20;
