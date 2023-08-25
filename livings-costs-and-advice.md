@@ -180,5 +180,7 @@ So make sure that when you apply for healthcare allowance, you only apply for th
 {% hint style="info" %}
 **support**
 
-Don't be afraid to contact the support, they are excellent at helping out, this can be a confusing process, and they sometimes get information wrong when applying.
+Don't be afraid to contact the support, they are excellent at helping out, this can be a confusing process, and information can sometimes be weird when applying.&#x20;
+
+Also feel free to ask in the cs discord, we have already dealt with all kinds of issues and would be happy to help.
 {% endhint %}
