@@ -22,10 +22,10 @@ This is one of the most expensive grocery stores. If you want to checkout the pr
 
 #### Bonus Card
 
-If you do decide to go to AH its highly recommended that you get a bonus card, to avoid carrying around added stuff you can just download the app and get a digital card, you can then just scan the barcode on the app on checkout and you can sometimes get discounts on certain items marked BONUS in the store or added to your Bonus Box in the app.&#x20;
+If you do decide to go to AH its highly recommended that you get a bonus card, to avoid carrying around added stuff you can just download the app and get a digital card, you can then just scan the barcode on the app during checkout and you can sometimes get discounts on certain items marked BONUS in the store or added to your Bonus Box in the app.&#x20;
 
 {% hint style="info" %}
-In the app also checkout the Bonus Box, this is a selection of items which you can apply a minor discount to if you scan with the Bonus Card.
+In the app also checkout the Bonus Box, this is a custom selection of items which you can apply a discount to.
 {% endhint %}
 
 #### Bonus Card sharing
@@ -36,27 +36,27 @@ While you likely cant get in trouble for using someone else's card if you decide
 
 **Custom cards**
 
-Due to the popularity of AH there is [a community](https://www.reddit.com/r/persoonlijkebonus/) of people that share bonus cards which have special deals. You should just be able to download the images of the barcodes and then scan them at checkout the active whatever deal is activated on the bonus card of the person sharing.
+Due to the popularity of AH there is [a community](https://www.reddit.com/r/persoonlijkebonus/) of people that share bonus cards which have special deals. You should just be able to download the images of the barcodes and then scan them at checkout the activate whatever deal is active on the bonus card of the person sharing.
 
 **Plain cards**
 
 Alternatively if you just forgot your bonus card but you still want some of the deals that just exist within the store then you can just get a plain card barcode from [this website](https://bonuskaart-ah.nl/) or [this website](https://randombonuskaart.nl/) this is a plain bonus card which should at least give you the normal deals in the store.
 
 {% hint style="warning" %}
-The **BONUS** discounts you will see in AH _**only apply if you have the card**_ so if you just scan an item with a BONUS on it then this bonus will only apply if you actually scan a bonus card, something important to be aware of.
+**To reiterate**, the **BONUS** discounts you will see in AH _**only apply if you have the card**_ so if you just scan an item with a BONUS on it then this bonus will only apply if you actually scan a bonus card, something important to be aware of.
 {% endhint %}
 
 ***
 
 ### Dirk
 
-This is one of the cheaper stores to my knowledge there is no app currently available but they have a [website](https://www.dirk.nl/) which includes various sections on stuff that is currently reduced in pricing, its a really nice location if you are working on a budget. To my knowledge there aren't as many Dirk locations as AH but given the excellent public transport you should have no issue finding one at least somewhat close.
+This is one of the cheaper stores to my knowledge there is no app currently available but they have a [website](https://www.dirk.nl/) which includes various sections on stuff that is currently reduced in pricing, its a really nice grocery store if you are working with a budget. To my knowledge there aren't as many Dirk locations as AH but given the excellent public transport you should have no issue finding one at least somewhat close.
 
 ***
 
 ### Spar
 
-This is a somewhat similar principle to AH togo, these are usually smaller stores located in places where you quickly drop in and out, **they also have a considerable markup** so just keep that in mind. But they are usually conveniently situated so if you have the budget then they might be a good spot to grab a quick lunch or a drink. Spar also has a [website ](https://www.spar.nl/)and an app.
+This is a somewhat similar principle to AH togo (at least in Amsterdam), these are usually smaller stores located in places where you quickly drop in and out, **they also have a considerable markup** so just keep that in mind. But they are usually conveniently situated so if you have the money then they might be a good spot to grab a quick lunch or a drink. Especially with the Spar on campus. Spar also has a [website ](https://www.spar.nl/)and an app.
 
 {% hint style="warning" %}
 Just not recommended if you are living on a tighter budget.
