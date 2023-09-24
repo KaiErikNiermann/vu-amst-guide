@@ -44,7 +44,7 @@ Alot of times restraurants have their own websites where ordering from is genera
 **Too Good To Go (TGTG)**
 
 {% hint style="info" %}
-You can get alot of really cheap good stuff from here. You just reserve it on the app then show you phone at the counter when you arrive. Highly recommended !
+You can get alot of really cheap good stuff from here. You just reserve it on the app then show your phone at the counter when you arrive. Highly recommended !
 {% endhint %}
 
 ***
@@ -56,7 +56,7 @@ You can get alot of really cheap good stuff from here. You just reserve it on th
 **Revolut / Bunq** for payment and crypto. You can also get a credit & debit card via Revolut if registered in NL.
 
 {% hint style="info" %}
-I don't believe Revolut gives you an actual dutch IBAN which is sometimes necessary, so I would recommend Bunq over revolut but both services in most instances are helpful.
+I don't believe Revolut gives you an actual Dutch IBAN which is sometimes necessary, so I would recommend Bunq over Revolut but both services have thier own use case and pros and cons, so my personal recommendation is just to have both.
 {% endhint %}
 
 ***
@@ -78,7 +78,9 @@ I don't believe Revolut gives you an actual dutch IBAN which is sometimes necess
 **Gorillas / Getir / Flink / Picnic** for grocery delivery.
 
 {% hint style="warning" %}
-These apps often charge a considerable markup over just regular grocery stores, so just keep that in mind.
+These apps often charge a considerable markup over just regular grocery stores, so just keep that in mind.&#x20;
+
+Though Picnic is definitely the cheaper one of the bunch and better for larger orders that you don't immediately need. Whereas the other 3 are better for smaller quicker orders.
 {% endhint %}
 
 ***
