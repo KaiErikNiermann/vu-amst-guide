@@ -11,5 +11,5 @@
 * [🕸 Useful Links from the VU Website](useful-links-from-the-vu-website.md)
 * [🏘 Housing Resources for Students in Amsterdam](housing-resources-for-students-in-amsterdam/README.md)
   * [🏠 More housing tips](housing-resources-for-students-in-amsterdam/more-housing-tips.md)
-* [🖥 Contributing](contributing.md)
 * [📑 Ultimate Student Finance Guide](ultimate-student-finance-guide.md)
+* [🖥 Contributing](contributing.md)
