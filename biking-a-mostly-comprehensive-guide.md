@@ -3,6 +3,9 @@ description: >-
   An excellent video by BicycleDutch about the different signs you may encounter
   while on a bike - https://www.youtube.com/watch?v=x-cYZo5kToM WATCH THE VIDEO
   BEFORE READING FURTHER!!!
+cover: >-
+  https://images.unsplash.com/photo-1614158364640-a35634e1683c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxhbXN0ZXJkYW0lMjBwYXJrfGVufDB8fHx8MTcwNTM2ODg3Nnww&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 🚲 Biking - a mostly comprehensive guide

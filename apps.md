@@ -3,6 +3,8 @@ description: >-
   Here are some important apps which might be useful for day-to-day life in
   Amsterdam, you most likely won't need all of them, but they are all very nice
   to have
+cover: .gitbook/assets/1618517166584 (1).png
+coverY: 0
 ---
 
 # 📱 Apps

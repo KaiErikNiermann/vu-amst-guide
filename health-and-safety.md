@@ -2,9 +2,11 @@
 description: >-
   Although Amsterdam is really fun it's important to know and be aware of what
   to do when things don't become so fun.
+cover: .gitbook/assets/debhufn-fd5a114e-c08e-4a98-bdba-5ccd16d864b8 (1).jpg
+coverY: 0
 ---
 
-# 💟 Health and Safety
+# 💟 Drugs, Health and Safety
 
 ## GP AND MEDICAL NON EMERGENCIES
 

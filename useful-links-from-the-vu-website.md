@@ -2,6 +2,9 @@
 description: >-
   This page is just a consolidation of links we deemed useful for specifically
   matters relating to the VU
+cover: >-
+  https://images.unsplash.com/photo-1513024383939-d99d282bc305?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxhbXN0ZXJkYW0lMjB3aW50ZXJ8ZW58MHx8fHwxNzA1MzY5MTU1fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 🕸 Useful Links from the VU Website

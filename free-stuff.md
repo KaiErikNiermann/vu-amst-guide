@@ -1,5 +1,7 @@
 ---
 description: This is a collection of free stuff you really should checkout
+cover: .gitbook/assets/1614679763671.jpg
+coverY: 0
 ---
 
 # 🆓 Free stuff

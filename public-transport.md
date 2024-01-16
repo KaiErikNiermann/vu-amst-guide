@@ -2,6 +2,22 @@
 description: >-
   This page includes information on various aspects of public transport within
   and around Amsterdam.
+cover: .gitbook/assets/1331860.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🚊 Public Transport

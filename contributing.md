@@ -1,5 +1,7 @@
 ---
 description: Quick guide if you want to add something / help out
+cover: .gitbook/assets/1640457702060.jpg
+coverY: 20
 ---
 
 # 🖥 Contributing

@@ -2,6 +2,9 @@
 description: >-
   This page includes some links relating to life in Amsterdam and the VU ( click
   on the titles for the links ).
+cover: >-
+  https://images.unsplash.com/photo-1686319598326-279da3a99922?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxzdW1tZXIlMjBhbXN0ZXJkYW18ZW58MHx8fHwxNzA1MzY4NjU4fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 🏡 Life in Amsterdam and VU

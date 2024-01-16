@@ -2,6 +2,9 @@
 description: >-
   If you're a student in Amsterdam looking for housing options, here are some
   resources to help you in your search
+cover: >-
+  https://images.unsplash.com/photo-1626965556132-43d76de1004f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb3p5JTIwYXBwYXJ0ZW1lbnR8ZW58MHx8fHwxNzA1MzY5MTk4fDA&ixlib=rb-4.0.3&q=85
+coverY: -407.6203703703704
 ---
 
 # 🏘 Housing Resources for Students in Amsterdam

@@ -6,6 +6,7 @@
 * [🚊 Public Transport](public-transport.md)
 * [💵 Livings costs and advice](livings-costs-and-advice.md)
 * [💟 Drugs, Health and Safety](health-and-safety.md)
+* [❤ Understanding Medical Expenses and Insurance Coverage](understanding-medical-expenses-and-insurance-coverage.md)
 * [🚲 Biking - a mostly comprehensive guide](biking-a-mostly-comprehensive-guide.md)
 * [🆓 Free stuff](free-stuff.md)
 * [🕸 Useful Links from the VU Website](useful-links-from-the-vu-website.md)
