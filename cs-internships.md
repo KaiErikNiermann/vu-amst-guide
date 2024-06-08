@@ -22,11 +22,11 @@ So I hope this guide can maybe put your minds at ease, there are generally a bun
 #### Y1: First Year Internships
 
 {% hint style="danger" %}
-**Be careful** with internships here, if you are not experienced try and work on practicing your programming skills and work on building a portfolio, don't worry to much about internships yet
+**Be careful** with internships here, if you are not experienced, try and work on practicing your programming skills and work on building a portfolio, don't worry to much about internships yet
 {% endhint %}
 
-* If you already have experience you can just apply to regular internships&#x20;
-* If you don't have experience finding internships at this stage is quite hard, and also not recommended
+* If you already have experience you can just apply to regular internships though note that the competition might be high here
+* If you don't have experience there are generally still _some_ opportunities, certain companies like Uber offer both Internships to Y1/Y2s but also workshop programs which can lead to internships, so its worth looking around on LinkedIn if programs like these are being offered.
 
 #### Start of Y2: Summer Internships&#x20;
 
@@ -35,18 +35,27 @@ I would strongly recommend to apply to these, they are _aimed_ at Y2s, often hav
 {% endhint %}
 
 * Primarily **targeted** at Year 2 students.
-* Competitive with low entry barriers ; usually require _little specific skill_
-* Larger companies may offer these ( amazon, databricks, booking, optiver, etc. ) , though not widely available in smaller firms.
+* Competitive with low entry barriers ; usually require _little specific skill_ ; do require good DSA knowledge though&#x20;
+* Larger companies may offer these ( Amazon, Databricks, Booking, Optiver, etc. ) , though not widely available in smaller firms.
 
-#### During Y2: Enforced Student Internships
+#### During Y2: (Enforced) Student Internships
 
 * Accessible to all students throughout the academic year.
-* Accepts both BSc and MSc students.
-* Consider focusing on opportunities designed for BSc students to enhance competitiveness ; internships that also accept Msc will be harder to get into
+* Generally accept both Msc and Bsc students
+* Consider focusing on opportunities designed for BSc students; internships that also accept Msc will be more competitive if you don't have too much prior experience
 
-#### (If you defer) Y3: Summer and Enforced Student Internships
+#### (If you defer) Y3: Summer and (Enforced) Student Internships
 
 * Year 3 students, after deferring, can potentially apply for summer internships ( that sometimes want a specific graduation date )  alongside enforced student internships which are normally available
+
+**During Y3 minor: (Enforced) Student Internships**
+
+{% hint style="info" %}
+A common strategy is to choose easy courses from the Data Science minor and then doing an internship on the side.
+{% endhint %}
+
+* Doing an internship during the minor is a good strategy if you want to have it done during your studies.&#x20;
+* If you design your minor well it can potentially be best opportunity aside from summer internships because of the easy courses. &#x20;
 
 #### Y3: Thesis Internship or Business Track
 
