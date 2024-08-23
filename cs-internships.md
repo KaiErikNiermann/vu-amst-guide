@@ -11,6 +11,12 @@ If you just want the summary for what do then jump to the bottom of the page.
 
 :exclamation:If you spot any inaccuracies with this page then contact me [applesauce](https://app.gitbook.com/u/L19izUT6YgUOFOnMZwFzK7JLKw13 "mention") via email or @appulsauce on discord
 
+## Non-EU/EEA
+
+{% hint style="danger" %}
+:skull: You are kinda outta luck, talk with your study advisor about maybe getting an internship for your thesis but aside from that I do not think its possible.&#x20;
+{% endhint %}
+
 ## Time Points for Internship Applications
 
 A commonly asked question is:&#x20;
@@ -63,7 +69,7 @@ A common strategy is to choose easy courses from the Data Science minor and then
 Again this is another **very good point** for looking into internships, because it has essentially no overlap with your courses. The companies might not overlap with your interests but I would still highly recommend to explore options at this point.
 {% endhint %}
 
-* Opportunities for a thesis internship or specialized business track for eligible candidates.
+* Note: The business track might not be available for your year, they did offer it from the 2024 graduating class of Bsc CS studenst thougth.
 
 #### (If you defer) After Y3: Enforced Student Internship
 
@@ -163,7 +169,7 @@ To summarize, some recommendations for what to do in each year
 
 And of course at all these points see if you can find any good opportunities for an internship. And the one thing to remember&#x20;
 
-## IMPORTANT -> YOU ARE PROBABLY MORE SKILLED THAN YOU THINK, IT NEVER HURTS TO APPLY, GOOD LUCK :heart:
+_IMPORTANT_ -> YOU ARE PROBABLY MORE SKILLED THAN YOU THINK, IT NEVER HURTS TO APPLY, GOOD LUCK :heart:
 
 
 
