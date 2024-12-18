@@ -27,8 +27,8 @@ If you are a CS student or just curious what the CS program looks like checkout 
   * [AI Students Discord](https://discord.gg/W3UUFaE8R7)
 * Gaming Group
   * [Gaming Discord](https://discord.gg/Ymae4vZ22s)
-* VU Cyber Security Group
-  * [VU Cyber Security Group Discord](https://discord.gg/Ce5mrVBzqP)
+* StudSec - Dutch Student CyberSecurity Association (Based at the VU) 
+  * [VU Cyber Security Group Discord](https://url.studsec.nl/discord)
   * [Website](https://studsec.nl)
 * Sports and IRL
   * [IRL Meetup WhatsApp](https://chat.whatsapp.com/H7E5AEvkOPY17xW8YiZU8m)
