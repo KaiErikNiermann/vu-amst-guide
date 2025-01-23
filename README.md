@@ -35,7 +35,7 @@ If you are a CS student or just curious what the CS program looks like checkout 
   * [Volleyball WhatsApp](https://chat.whatsapp.com/GG5VIE2MPqE6MawPPTtJ1n)
   * [CS Football WhatsApp](https://chat.whatsapp.com/BoiUYuChOFS9AeyaTvzyyJ)
 
-_Note: The WhatsApp groups are for the class of 2021, while the Discord server is open to all years, especially new students. We recommend joining the Discord server, as the WhatsApp groups often contain spam and are unmoderated, making them less helpful._
+_Note: We recommend joining the Discord server, as the WhatsApp groups often contain spam and are unmoderated, making them less helpful._
 
 (class 2025)
 
