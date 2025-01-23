@@ -19,7 +19,7 @@ This website contains information collected and written by students who have liv
 
 If you are a CS student or just curious what the CS program looks like checkout the resource hub, this includes everything from notes to previous exams to course content, all for free ! ( full credit to the incredible [Laura ](https://www.buymeacoffee.com/laustam)for creating this )
 
-> [**CS Resource Hub**](https://lausta.notion.site/CS-Hub-6e7cae889f844cb59ae5f1809c88e553)
+> [**CS Resource Hub**](https://cs-hub.notion.site/CS-Hub-6e7cae889f844cb59ae5f1809c88e553)
 
 ### Other groups
 
@@ -27,7 +27,7 @@ If you are a CS student or just curious what the CS program looks like checkout 
   * [AI Students Discord](https://discord.gg/W3UUFaE8R7)
 * Gaming Group
   * [Gaming Discord](https://discord.gg/Ymae4vZ22s)
-* StudSec - Dutch Student CyberSecurity Association (Based at the VU) 
+* StudSec - Dutch Student CyberSecurity Association (Based at the VU)
   * [VU Cyber Security Group Discord](https://url.studsec.nl/discord)
   * [Website](https://studsec.nl)
 * Sports and IRL
